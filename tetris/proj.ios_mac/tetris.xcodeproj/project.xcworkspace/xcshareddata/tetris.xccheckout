@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>379A13F7-D766-49E0-9451-08435F4E101E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tetris</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>121E2BD8DE62AF725E24488ECAC909CBF5573FE6</key>
+		<string>https://github.com/yakewdx/E-120-learning-Cocos2d-x.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tetris/proj.ios_mac/tetris.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>121E2BD8DE62AF725E24488ECAC909CBF5573FE6</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yakewdx/E-120-learning-Cocos2d-x.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>121E2BD8DE62AF725E24488ECAC909CBF5573FE6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>121E2BD8DE62AF725E24488ECAC909CBF5573FE6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>E-120-learning-Cocos2d-x</string>
+		</dict>
+	</array>
+</dict>
+</plist>
